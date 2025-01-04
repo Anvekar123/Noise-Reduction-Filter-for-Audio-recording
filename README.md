@@ -29,3 +29,6 @@ Audio signals are inherently sensitive and complex, often marred by background n
 ## Results
 
 The analysis indicates that the Autoencoder outperforms other methods, achieving higher SNR and PSNR values while maintaining lower MSE. This highlights its adaptability and effectiveness for audio noise reduction tasks.
+![mini_output](https://github.com/user-attachments/assets/2aed9c8a-08aa-40e3-aea2-5f60ef5b4117)
+
+
